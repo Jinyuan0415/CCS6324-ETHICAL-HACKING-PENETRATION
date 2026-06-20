@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MyEduConnect - Mock Checkout</title>
+</head>
+<body>
+	<h2>Secure Checkout (Mock Workflow)</h2>
+    	<p>You are enrolling in Course ID: <strong>{{ course_id }}</strong></p>
+	<form action="/dashboard" method="GET" onsubmit="alert('Payment Simulation Successful! Course Added to Profile.');">
+		<p>Cardholder Name: <input type="text" required></p>
+		<p>Card Number: <input type="text" placeholder="1234 5678 1234 5678" required></p>
+		<button type="submit">Submit Mock Payment</button>
+	</form>
+	<br>
+	<a href="/courses">Cancel and Go Back</a>
+</body>
+</html>
