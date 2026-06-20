@@ -1,4 +1,4 @@
-# MyEduConnect: Ethical Hacking & Penetration Testing Lab 🛡️
+# MyEduConnect: Ethical Hacking & Penetration Testing 🛡️
 
 **Course:** CCS6324 - Ethical Hacking & Penetration
 **Project Focus:** Web Application Security, OS Exploitation, and Systems Hardening
